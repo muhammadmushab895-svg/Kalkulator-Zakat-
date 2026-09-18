@@ -1,0 +1,6 @@
+{
+  "name": "Kalkulator & Modul Fiqih Zakat Syariah",
+  "description": "Sistem terpadu kalkulator zakat interaktif dan pusat pembelajaran fiqih zakat kontemporer berlandaskan Kitab Fiqh az-Zakah Dr. Yusuf Al-Qardhawi, Fatwa MUI, dan regulasi BAZNAS/PMA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
